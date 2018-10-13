@@ -223,7 +223,7 @@ input[type=submit] {
   }
 
   .work{
-    width:48%;
+    width:45%;
   }
 
   #main-container {
@@ -257,7 +257,7 @@ input[type=submit] {
     width: 100%;
     padding: 130px 20px 0px 20px;
     margin:0 auto;
-    float: center;
+    /* float: center; */
   }
 
   #masthead{
